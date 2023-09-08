@@ -31,7 +31,7 @@ Les attributs modifiés peuvent être :
 
 La valeur du modificateur peut être spécifiée comme :
 - Un nombre fixe
-- La valeur d'un autre attribut, en l'indiquant entre [] (ex : [PER])
+- La valeur d'un autre attribut, en l'indiquant entre [ ... ] (ex : [PER])
 - Le rang dans une voie, en l'indiquant soit sous la forme [VOIE#] (où # est le numéro de la voie), soit sous la forme [rang {nom voie}]
 
 
