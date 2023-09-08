@@ -24,7 +24,7 @@ Les attributs modifiés peuvent être :
 - L'attaque à distance que l'on peut indiquer via plusieurs alias : atd, atktir, cad, distance, tir
 - L'attaque mentale que l'on peut indiquer via plusieurs alias : men, atkmen, mental, mentale
 - L'attaque magique que l'on peut indiquer via plusieurs alias : mag, atkmag, magie, magique
-- Le Pilotage (setting Bitume) : pil, atkpil, pilotage
+- Le Pilotage (Bitume) : pil, atkpil, pilotage
 - L'Initiative que l'on peut indiquer via plusieurs alias : init, initiative
 - La défense : def
 - Les points de vie : pv
@@ -49,10 +49,11 @@ Pour chaque élément de la liste d'équipement du personnage, il est possible d
 
 Une liste de propriétés peut être fournie pour un équipement, sous la forme d'une liste de paires _nom:valeur_ séparées par des virgules (,). La liste des propriétés supportées est la suivante :
 
-- **DEF** :	Valeur du bonus de DEF de l'armure.
-- **DEF-** : Valeur du malus d'armure.
-- **RD** : Valeur de réduction des dommages.
-- **ATD** : Valeur de portée pour une arme à distance.
+- **DEF**   :	Valeur du bonus de DEF de l'armure.
+- **DEF-**  : Valeur du malus d'armure.
+- **RD**    : Valeur de réduction des dommages.
+- **ATD**   : Valeur de portée pour une arme à distance.
   - Si cette proprété est indiquée, la ligne d'attaque utilise l'ATD du personnage, sinon la ligne d'attaque créée utilise l'ATC.
-- **DM** : Dés de dommages de arme.
-- **DM2** : Dés de dommages de arme si elle inflige plusieurs types de dommages.
+- **DM**    : Dés de dommages de arme.
+- **DM2**   : Dés de dommages de arme si elle inflige plusieurs types de dommages.
+- **UD**    : Dés d'usure (Bitume)
