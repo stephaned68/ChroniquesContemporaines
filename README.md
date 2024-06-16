@@ -10,9 +10,17 @@ Le jeu complet est disponible sur le site de l'éditeur [Black Book Editions](ht
 
 # Version courante
 
-v3.17.0 [Screenshot](coc_v2.png)
+v3.18.0 [Screenshot](coc_v2.png)
 
 # Notes de version
+
+## v3.18.0 (2024-06-15)
+
+- Migration de la fiche en CSE
+- Ajout de zones rétractables/extensibles
+  - Dans l'onglet Capacités
+  - Dans l'onglet Equipements
+- Correction de bugs mineurs dans les fonctions d'import de profil et statblock
 
 ## v3.17.1 (2024-06-03)
 
