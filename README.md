@@ -14,7 +14,7 @@ v3.18.0 [Screenshot](coc_v2.png)
 
 # Notes de version
 
-## v3.18.0 (2024-06-15)
+## v3.18.0 (2024-06-24)
 
 - Migration de la fiche en CSE
 - Ajout de zones rétractables/extensibles
