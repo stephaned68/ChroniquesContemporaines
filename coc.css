@@ -737,3 +737,12 @@ ul.sheet-release-notes {
   border-style: solid;
   border-radius: 25% 12%;
 }
+
+.sheet-rolltemplate-co1.sheet-rolltemplate-darkmode,
+.sheet-rolltemplate-co1.sheet-rolltemplate-darkmode th {
+  color: #333 !important;
+}
+
+.sheet-rolltemplate-co1.sheet-rolltemplate-darkmode .inlinerollresult {
+  color: #f6f6f6;
+}
